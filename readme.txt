@@ -2,16 +2,6 @@ This is "bithacks.h" C header file and it contains various macros for bit
 manipulations. It's accompanied with "bithacks-test.c", which tests all the
 macros.
 
-It was written by Peteris Krumins (peter@catonmat.net).
-His blog is at http://www.catonmat.net -- good coders code, great reuse.
-
-The code is licensed under the MIT license.
-
-The code was written as a part of the article "bithacks.h - bit hacks header
-file" on my website. The whole article can be read at:
-
-    http://www.catonmat.net/blog/bit-hacks-header-file/
-
 ------------------------------------------------------------------------------
 
 Table of contents:
