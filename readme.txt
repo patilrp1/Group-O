@@ -3,7 +3,7 @@ manipulations. It's accompanied with "bithacks-test.c", which tests all the
 macros.
 
 ------------------------------------------------------------------------------
-
+table
 Table of contents:
     [1] Macros in bithacks.h file
     [2] The test program bithacks-test.c
